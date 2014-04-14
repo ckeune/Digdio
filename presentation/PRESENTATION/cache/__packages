@@ -1,0 +1,10 @@
+base
+bibtex
+datasets
+graphics
+grDevices
+knitcitations
+knitr
+methods
+stats
+utils
